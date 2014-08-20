@@ -17,6 +17,12 @@ helpers
 ~~~
 dpkg -l
 ~~~
+~~~
+ps
+~~~
+~~~
+top
+~~~
 
 `ctrl+shift+R` - search in bash command history
 
