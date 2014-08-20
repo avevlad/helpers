@@ -18,6 +18,8 @@ helpers
 dpkg -l
 ~~~
 
+`ctrl+shift+R` - search in bash command history
+
 
 ####link
 
