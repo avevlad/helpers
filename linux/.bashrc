@@ -6,6 +6,8 @@ alias e="subl"
 alias c="clear"
 alias p="cd ~/projects"
 alias h="history"
+alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
+
 
 
 
