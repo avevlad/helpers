@@ -10,6 +10,7 @@ alias h="history"
 alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
 alias ng-s='sudo service nginx status'
 alias ng-r='sudo service nginx restart'
+alias ng-log='cd /var/log/nginx/'
 alias ng='cd /etc/nginx/'
 alias ebrc="rmate ~/.bashrc"
 
