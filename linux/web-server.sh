@@ -26,7 +26,7 @@ apt-get install -y nginx-full
 apt-get install -y git-core
 
 # ruby
-\curl -sSL https://get.rvm.io | bash -s stable --rails
+curl -sSL https://get.rvm.io | bash -s stable --rails
 source ~/.rvm/scripts/rvm
 gem install rmate sass compass
 
