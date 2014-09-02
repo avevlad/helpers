@@ -1,3 +1,16 @@
+alias g='git'
+alias gs='git status'
+alias gp='git push'
+alias ga='git add'
+alias gb='git branch'
+alias gc='git commit -m'
+alias gg='git add -A && git commit -m'
+alias gt='git tag'
+alias gh='git hist'
+alias gd='git diff'
+alias gco='git checkout'
+alias gom='git checkout master'
+
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
