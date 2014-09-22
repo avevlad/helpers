@@ -21,6 +21,8 @@ alias c="clear"
 alias ap="php app/console"
 alias p="cd ~/projects"
 alias h="history"
+alias cup="composer update"
+alias cins="composer install"
 alias op="explorer $1"
 
 
