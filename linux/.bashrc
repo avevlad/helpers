@@ -1,3 +1,4 @@
+export LC_ALL="en_US.UTF-8"
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
